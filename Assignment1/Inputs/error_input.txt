@@ -1,0 +1,26 @@
+1
+n
+1
+y
+This packet has no start and end
+
+y
+1
+n
+10
+This packet has bad length
+
+y
+2
+y
+This is out of sequence
+
+y
+1
+y
+This is a normal packet 
+
+y
+1
+y
+This is duplicate packet
